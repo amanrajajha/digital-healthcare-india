@@ -1,0 +1,3 @@
+- No personal biometric data is stored.
+- Patient data is encrypted at rest and in transit.
+- Access is role-based and consent-driven.
